@@ -1,0 +1,23 @@
+@🐾 Animais Estranhamente Fofos
+
+Um site simples e divertido sobre animais estranhos, mas incrivelmente fofos! 🌎💚
+
+@📸 Sobre o Projeto
+
+Este projeto apresenta uma galeria de animais com aparência curiosa e fofa, incluindo o Saiga Tatarica, o Diabo-da-Tasmânia, o Urutau e muitos outros. Ele utiliza apenas HTML, CSS e JavaScript puro, com um toque moderno e suporte ao modo escuro.
+
+@🌗 Recursos
+
+- Layout responsivo
+- Galeria em grade com efeito hover
+- Modo escuro 🌙/claro ☀️ com botão de alternância
+- Navegação entre páginas com links
+
+@🚀 Como Usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/animais-estranhamente-fofos.git
+   cd animais-estranhamente-fofos
+
+link do site para analise: https://animais-estranhamente-fofos.glitch.me/index.html
