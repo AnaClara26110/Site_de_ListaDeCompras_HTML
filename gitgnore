@@ -1,0 +1,9 @@
+# Ignorar arquivos de sistema e backups
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos do VS Code
+.vscode/
+
+# Ignorar arquivos de build temporários
+*.log
