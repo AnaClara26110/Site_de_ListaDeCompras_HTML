@@ -1,23 +1,20 @@
-@🐾 Animais Estranhamente Fofos
+@Lista de Compras 🛒
 
-Um site simples e divertido sobre animais estranhos, mas incrivelmente fofos! 🌎💚
+Uma aplicação simples de lista de compras feita com HTML, CSS e JavaScript, que permite:
 
-@📸 Sobre o Projeto
+- Adicionar e remover itens
+- Inserir quantidades e valores
+- Calcular o total em tempo real
+- Salvar os dados no navegador (usando `localStorage`)
+- Restaurar a lista original de itens
+- Limpar valores ou criar nova lista
 
-Este projeto apresenta uma galeria de animais com aparência curiosa e fofa, incluindo o Saiga Tatarica, o Diabo-da-Tasmânia, o Urutau e muitos outros. Ele utiliza apenas HTML, CSS e JavaScript puro, com um toque moderno e suporte ao modo escuro.
+@📸 Preview
 
-@🌗 Recursos
+![Preview da aplicação](https://ana-lista-de-compras.glitch.me/)
 
-- Layout responsivo
-- Galeria em grade com efeito hover
-- Modo escuro 🌙/claro ☀️ com botão de alternância
-- Navegação entre páginas com links
-
-@🚀 Como Usar
+@🚀 Como usar
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/animais-estranhamente-fofos.git
-   cd animais-estranhamente-fofos
-
-link do site para analise: https://animais-estranhamente-fofos.glitch.me/index.html
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
